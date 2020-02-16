@@ -10,7 +10,7 @@ CREATE TABLE `weashops` (
 );
 
 INSERT INTO `licenses` (`type`, `label`) VALUES
-	('weapon', "Permis de port d'arme")
+	('weapon', "Weapon license")
 ;
 
 INSERT INTO `weashops` (`zone`, `item`, `price`) VALUES
